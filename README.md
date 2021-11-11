@@ -1,18 +1,5 @@
-<style>
-.social{
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    list-style-type: none;
-}
+<!-- <style>
 
-.social img{
-    margin:0px 10px;
-}
-
-.social span{
- margin:10px;
-}
 
 .hi{
   display:flex;
@@ -35,7 +22,7 @@
 
 
 }
-</style>
+</style> -->
 
 <p>
 <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="100%"  height="300"> 
@@ -62,20 +49,21 @@
 ### :pushpin: Reach out to me
 
 <br/>
-<div class="social">
+<div class="social"  style="display:flex;
+    align-items:center;
+    justify-content:space-between;
+    list-style-type: none;">
+
+
+### <img style=" margin:0px 10px;" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /><span style="margin:10px;">[Linkedin]</span>
 
 
 
-
-### <img margin="" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /><span>[Linkedin]</span>
-
-
-
-### <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/codesandbox.svg" /><span>[Codesandbox]</span>
+### <img style=" margin:0px 10px;" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/codesandbox.svg" /><span style="margin:10px;">[Codesandbox]</span>
 
 
 
-### <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" /><span>[Hackerrank]</span>
+### <img style=" margin:0px 10px;" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" /><span style="margin:10px;">[Hackerrank]</span>
 
 
 
@@ -86,7 +74,7 @@
 [hackerrank]: https://www.hackerrank.com/muratcayir
 
 <br/>
-<!--
+
 ### :pushpin: Tech I Use
 
 <br/>
@@ -122,4 +110,4 @@
 <details>
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
-</details> -->
+</details>
