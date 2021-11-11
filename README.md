@@ -49,10 +49,7 @@
 ### :pushpin: Reach out to me
 
 <br/>
-<div class="social"  style="display:flex;
-    align-items:center;
-    justify-content:space-between;
-    list-style-type: none;">
+<div class="social"  style="display:flex;justify-content:space-between;">
 
 
 ### <img style=" margin:0px 10px;" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /><span style="margin:10px;">[Linkedin]</span>
