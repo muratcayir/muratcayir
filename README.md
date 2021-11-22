@@ -1,28 +1,3 @@
-<!-- <style>
-
-
-.hi{
-  display:flex;
-  justify-content:space-between;
-  animation: color-change 5s infinite;
-}
-
-.hi img{
-    width:150px;
-    height:30px;
-}
-
-
-
-
-@keyframes color-change {
-  0% { color:#03C03C; }
-  50% { color: #018749; }
-  100% { color: #006400; }
-
-
-}
-</style> -->
 
 <p>
 <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="100%"  height="300"> 
@@ -101,11 +76,11 @@
 </div>
 
 <details>
-<summary>:bulb: Github Stats</summary>
+<summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast">
 </details>
 <br/>
 <details>
-<summary>:bulb: Most Used Languages</summary>
+<summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
 </details>
