@@ -78,6 +78,8 @@
 </div>
 <div style="height:170px;">
 
+<summary>🔥 GitHub Readme Streak Stats</summary>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muratcayir)](https://git.io/streak-stats)
 
 </div>
