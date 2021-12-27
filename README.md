@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="100%"  height="300"> 
 </p>
 
-<div style="display:flex;justify-content:space-between;">
+<div style="display:flex;">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muratcayir.muratcayir)
 
@@ -78,7 +78,7 @@
 </div>
 <div style="height:170px;">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilkaay&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muratcayir)](https://git.io/streak-stats)
 
 </div>
 </div>
