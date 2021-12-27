@@ -72,15 +72,15 @@
 
 <div>
 <summary>Github Stats</summary>
-<img style="height:140px;"src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast">
+<img style="height:180px;"src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast">
 </div>
 
 <div>
 <summary>Most Used Languages</summary>
-<img style="height:140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
+<img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
 </div>
 
-<div style="height:140px;">
+<div style="height:180px;">
 <summary>🔥 GitHub Readme Streak Stats</summary>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muratcayir)](https://git.io/streak-stats)
