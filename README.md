@@ -68,19 +68,23 @@
 <br/><br/>
 </div>
 
-<div style="display:flex;justify-content:space-around;">
+<div style="display:flex;justify-content:space-around;list-style:none;">
+
 <div>
 <summary>Github Stats</summary>
-<img style="height:170px;"src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast"></div>
+<img style="height:140px;"src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast">
+</div>
+
 <div>
 <summary>Most Used Languages</summary>
-<img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
+<img style="height:140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
 </div>
-<div style="height:170px;">
 
+<div style="height:140px;">
 <summary>🔥 GitHub Readme Streak Stats</summary>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muratcayir)](https://git.io/streak-stats)
 
 </div>
+
 </div>
