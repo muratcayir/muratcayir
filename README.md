@@ -12,8 +12,8 @@
 <div >
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Html5-rgb(238, 126, 21)?logo=html5" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Css3-rgb(90, 168, 235)?logo=css3" />
-<img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Bootstrap-rgb(131, 111, 255)?logo=bootstrap" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Javascript-rgb(255, 192 ,0)?logo=javascript" />
+<img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Bootstrap-rgb(131, 111, 255)?logo=bootstrap" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Jquery-rgb(24, 50, 82)?logo=jquery" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Sass-rgb(150, 60, 123)?logo=sass" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/TypeScript-rgb(20, 50, 120)?logo=typescript" />
