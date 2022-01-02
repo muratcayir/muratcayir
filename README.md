@@ -1,6 +1,3 @@
-<p>
-<img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" width="100%"  height="300"> 
-</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hi+Guys%2C;I'm+Murat%2C;I'm+a+Software+Engineer.;)
 
