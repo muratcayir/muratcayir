@@ -20,12 +20,6 @@
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Redis-white?logo=redis" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Rabbitmq-white?logo=rabbitmq" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Graphql-rgb(225, 0, 152)?logo=graphql" />
-<img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Bootstrap-rgb(131, 111, 255)?logo=bootstrap" />
-<img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Jquery-rgb(24, 50, 82)?logo=jquery" />
-<img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Sass-rgb(150, 60, 123)?logo=sass" />
-<img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/TypeScript-rgb(20, 50, 120)?logo=typescript" />
-<img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/OpenApi-green?logo=openapiinitiative" />
-<img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Mongoose-white?logo=mongoose" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Socketio-rgb(0, 0, 0)?logo=socket.io" />
 <img  height="40" width="80" style="margin:0 4px;" src="https://img.shields.io/badge/Postgresql-rgb(24, 50, 82)?logo=postgresql" />
 
