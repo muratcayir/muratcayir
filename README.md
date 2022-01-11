@@ -49,17 +49,17 @@ I keep improving myself in the field cloud computing.
 
 <div align="center">
 <h1 align="center">Github Stats</h1>
-<img style="height:280px;"src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast">
+<img style="height:320px;"src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast">
 </div>
 
 <div align="center">
 <h1 align="center">Most Used Languages</h1>
-<img style="height:280px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
+<img style="height:320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
 </div>
 
 <div align="center">
 <h1 align="center">Contribution Graph</h1>
-  <img style="height:280px;" alt="muratcayir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muratcayir&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img style="height:320px;" alt="muratcayir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muratcayir&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </div>
 
 
