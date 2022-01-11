@@ -49,12 +49,12 @@ I keep improving myself in the field cloud computing.
 
 <div align="center">
 <h1 align="center">Github Stats</h1>
-<img style="height:320px;"src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast">
+<img style="height:200px;"src="https://github-readme-stats.vercel.app/api?username=muratcayir&show_icons=true&theme=highcontrast">
 </div>
 
 <div align="center">
 <h1 align="center">Most Used Languages</h1>
-<img style="height:320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
+<img style="height:240px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcayir&layout=compact">
 </div>
 
 <div align="center">
